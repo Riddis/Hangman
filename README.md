@@ -17,7 +17,7 @@
 
 ## The Mission
 
-You will need to create a hangman game in Python, that is played in the terminal.
+I created a hangman game in Python, that is played in the terminal.
 
 ## Steps
 
@@ -28,3 +28,8 @@ You will need to create a hangman game in Python, that is played in the terminal
   ![Hangman (Image)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hangman_game.jpg/800px-Hangman_game.jpg)
 
 In this implementation, we will **NOT** have the drawing of the man being hanged. We will just have the word with the letters appearing as more and more letters are guessed correctly.
+
+You can play the game by running 'python main.py' in a terminal located in \Repo_Folder\Hangman
+No additional module installation is required. 
+I took 2 hours to complete the project. 
+This project was done as part of the AI Boocamp at BeCode.org
